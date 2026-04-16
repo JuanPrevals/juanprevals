@@ -1,16 +1,104 @@
-## Hi there 👋
+<h1 align="center">JuanPrevals</h1>
 
-<!--
-**JuanPrevals/juanprevals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Developer · Problem Solver · Technology Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am a software developer focused on building efficient, scalable, and clean solutions.  
+My work is driven by logic, performance, and continuous improvement.
+
+I approach development with a structured mindset, prioritizing clarity, maintainability, and precision in every system I design.
+
+---
+
+## Philosophy
+
+> Simplicity is not the absence of complexity, but the mastery of it.
+
+I believe in:
+- Writing code that is understandable before being clever
+- Solving problems from first principles
+- Continuous learning through real-world application
+- Building systems that scale with minimal friction
+
+---
+
+## Technologies
+
+### Core Stack
+
+- JavaScript / TypeScript  
+- Node.js  
+- HTML / CSS  
+- SQL / Relational Databases  
+
+### Tools & Environment
+
+- Git & GitHub  
+- Linux / Unix-based systems  
+- VS Code  
+- REST APIs  
+- WebSockets  
+
+### Additional Knowledge
+
+- Backend architecture  
+- Real-time systems  
+- Game-related systems and logic  
+- Performance optimization  
+
+---
+
+## Development Focus
+
+My current focus areas include:
+
+- Backend development and APIs  
+- Real-time applications  
+- System performance and optimization  
+- Scalable architectures  
+
+---
+
+## Languages
+
+- Spanish — Native  
+- English — Professional working proficiency  
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanPrevals&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JuanPrevals&theme=default&hide_border=true" />
+</p>
+
+---
+
+## Principles of Work
+
+- Precision over speed  
+- Structure over improvisation  
+- Clarity over complexity  
+- Consistency over intensity  
+
+---
+
+## Contact
+
+- GitHub: https://github.com/JuanPrevals  
+
+---
+
+## Closing Statement
+
+This profile is a representation of ongoing development, not a finished product.  
+Every repository reflects a step forward in technical depth and problem-solving capability.
