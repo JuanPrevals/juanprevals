@@ -1,104 +1,127 @@
 <h1 align="center">JuanPrevals</h1>
 
 <p align="center">
-  Software Developer · Problem Solver · Technology Enthusiast
-</p>
-
----
-
-## About Me
-
-I am a software developer focused on building efficient, scalable, and clean solutions.  
-My work is driven by logic, performance, and continuous improvement.
-
-I approach development with a structured mindset, prioritizing clarity, maintainability, and precision in every system I design.
-
----
-
-## Philosophy
-
-> Simplicity is not the absence of complexity, but the mastery of it.
-
-I believe in:
-- Writing code that is understandable before being clever
-- Solving problems from first principles
-- Continuous learning through real-world application
-- Building systems that scale with minimal friction
-
----
-
-## Technologies
-
-### Core Stack
-
-- JavaScript / TypeScript  
-- Node.js  
-- HTML / CSS  
-- SQL / Relational Databases  
-
-### Tools & Environment
-
-- Git & GitHub  
-- Linux / Unix-based systems  
-- VS Code  
-- REST APIs  
-- WebSockets  
-
-### Additional Knowledge
-
-- Backend architecture  
-- Real-time systems  
-- Game-related systems and logic  
-- Performance optimization  
-
----
-
-## Development Focus
-
-My current focus areas include:
-
-- Backend development and APIs  
-- Real-time applications  
-- System performance and optimization  
-- Scalable architectures  
-
----
-
-## Languages
-
-- Spanish — Native  
-- English — Professional working proficiency  
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanPrevals&show_icons=true&theme=default&hide_border=true" />
+  <b>Software Developer</b> · Backend Focus · Real-Time Systems
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JuanPrevals&theme=default&hide_border=true" />
+  <a href="https://github.com/JuanPrevals">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## Principles of Work
+##  About Me
 
-- Precision over speed  
+I am a developer focused on building **structured, efficient and scalable systems**.
+
+My approach to software is grounded in:
+- logical thinking  
+- clean architecture  
+- performance optimization  
+
+I don't write code just to make things work —  
+I build systems that are meant to **last, scale, and be understood**.
+
+---
+
+##  Philosophy
+
+> “Discipline in code reflects discipline in thought.”
+
+- Simplicity over unnecessary abstraction  
+- Clarity over cleverness  
 - Structure over improvisation  
-- Clarity over complexity  
 - Consistency over intensity  
 
 ---
 
-## Contact
+##  Tech Stack
 
-- GitHub: https://github.com/JuanPrevals  
+###  Core Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/>
+</p>
+
+###  Tools & Environment
+
+<p>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/REST-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/>
+</p>
+
+###  Knowledge Areas
+
+- Backend Architecture  
+- Real-Time Systems  
+- Game Logic Systems  
+- Performance Optimization  
 
 ---
 
-## Closing Statement
+##  Current Focus
 
-This profile is a representation of ongoing development, not a finished product.  
-Every repository reflects a step forward in technical depth and problem-solving capability.
+- Scalable backend systems  
+- Real-time multiplayer logic  
+- Performance tuning  
+- Clean architecture patterns  
+
+---
+
+##  Languages
+
+- Spanish — Native  
+- English — Professional  
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanPrevals&show_icons=true&hide_border=true&theme=default"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JuanPrevals&hide_border=true"/>
+</p>
+
+---
+
+##  Workflow Principles
+
+- Write code that others can understand  
+- Avoid unnecessary complexity  
+- Solve problems at their root  
+- Maintain long-term scalability  
+
+---
+
+##  Contact
+
+<p align="center">
+  <a href="https://github.com/JuanPrevals">
+    <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+##  Final Statement
+
+This profile is not a showcase of finished work —  
+it is a record of continuous evolution.
+
+Each project represents a deeper understanding of systems,  
+architecture, and problem-solving.
+
+The goal is not just to build —  
+but to build with precision.
