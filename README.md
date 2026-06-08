@@ -8,30 +8,38 @@
   </a>
 </p>
 
-About Me
-I am a developer focused on building structured, efficient and scalable systems.
+---
+
+## About Me
+
+I am a developer focused on building **structured, efficient and scalable systems**.
+
 My approach to software is grounded in:
 
-Logical thinking
-Clean architecture
-Performance optimization
+- Logical thinking
+- Clean architecture
+- Performance optimization
 
 I don't write code just to make things work —
-I build systems that are meant to last, scale, and be understood.
+I build systems that are meant to **last, scale, and be understood**.
 
-Philosophy
+---
 
-"Discipline in code reflects discipline in thought."
+## Philosophy
 
+> "Discipline in code reflects discipline in thought."
 
-Simplicity over unnecessary abstraction
-Clarity over cleverness
-Structure over improvisation
-Consistency over intensity
+- Simplicity over unnecessary abstraction
+- Clarity over cleverness
+- Structure over improvisation
+- Consistency over intensity
 
+---
 
-Tech Stack
-Core Technologies
+## Tech Stack
+
+### Core Technologies
+
 <p>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
@@ -40,13 +48,17 @@ Core Technologies
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/>
 </p>
-Databases
+
+### Databases
+
 <p>
   <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite"/>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy"/>
 </p>
-Tools & Environment
+
+### Tools & Environment
+
 <p>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
@@ -55,31 +67,36 @@ Tools & Environment
   <img src="https://img.shields.io/badge/REST-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge"/>
 </p>
-Knowledge Areas
 
-Backend Architecture
-Real-Time Systems
-Database Design & Optimization
-Game Logic Systems
-Performance Optimization
-Deployment & Cloud Hosting
+### Knowledge Areas
 
+- Backend Architecture
+- Real-Time Systems
+- Database Design & Optimization
+- Game Logic Systems
+- Performance Optimization
+- Deployment & Cloud Hosting
 
-Current Focus
+---
 
-Scalable backend systems
-Real-time multiplayer logic
-Performance tuning
-Clean architecture patterns
+## Current Focus
 
+- Scalable backend systems
+- Real-time multiplayer logic
+- Performance tuning
+- Clean architecture patterns
 
-Languages
+---
 
-Spanish — Native
-English — Professional
+## Languages
 
+- Spanish — Native
+- English — Professional
 
-GitHub Stats
+---
+
+## GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanPrevals&show_icons=true&hide_border=true&theme=default"/>
 </p>
@@ -87,25 +104,34 @@ GitHub Stats
   <img src="https://streak-stats.demolab.com?user=JuanPrevals&hide_border=true"/>
 </p>
 
-Workflow Principles
+---
 
-Write code that others can understand
-Avoid unnecessary complexity
-Solve problems at their root
-Maintain long-term scalability
+## Workflow Principles
 
+- Write code that others can understand
+- Avoid unnecessary complexity
+- Solve problems at their root
+- Maintain long-term scalability
 
-Contact
+---
+
+## Contact
+
 <p align="center">
   <a href="https://github.com/JuanPrevals">
     <img src="https://img.shields.io/badge/Profile-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-Final Statement
+---
+
+## Final Statement
+
 This profile is not a showcase of finished work —
 it is a record of continuous evolution.
+
 Each project represents a deeper understanding of systems,
 architecture, and problem-solving.
+
 The goal is not just to build —
 but to build with precision.
